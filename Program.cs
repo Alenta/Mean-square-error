@@ -6,7 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(Solution(new int[] {1, 2, 3}, new int[] {4, 5, 6}));
+        //Console.WriteLine(Solution(new int[] {1, 2, 3}, new int[] {4, 5, 6}));
+        Console.WriteLine(GetReadableTime(20000));
     }
 
     public static double Solution(int[] firstArray, int[] secondArray)
@@ -21,5 +22,25 @@ class Program
             remainders.Add(result);
         }
         return Queryable.Average(remainders.AsQueryable());
+    }
+
+    public static string GetReadableTime(int seconds)
+    {
+        double h = 0;
+        double min = 0;
+        double sec = 0;
+        while (seconds!=0){
+            if(seconds >= 3600){
+                seconds -= 3600;
+                h += 1;
+            }
+            else if(seconds > 60){
+                seconds -= 60;
+                min+=1;
+            }
+            else {sec = seconds; seconds-=seconds;}
+        }
+        Console.WriteLine(String.Format("{0:00}", h));
+        return String.Format("{0:00}", h)+":"+String.Format("{0:00}", min)+":"+String.Format("{0:00}", sec);
     }
 }
