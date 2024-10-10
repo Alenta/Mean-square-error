@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\bin\Debug\net8.0\Mean square error.exe
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\bin\Debug\net8.0\Mean square error.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\bin\Debug\net8.0\Mean square error.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\bin\Debug\net8.0\Mean square error.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\bin\Debug\net8.0\Mean square error.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\Mean square error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\Mean square error.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\Mean square error.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\Mean square error.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\Mean square error.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\refint\Mean square error.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\Mean square error.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\Mean square error.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Mean square error\obj\Debug\net8.0\ref\Mean square error.dll
