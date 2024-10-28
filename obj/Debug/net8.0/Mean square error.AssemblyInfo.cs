@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mean square error")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afd4f546ef227bae7098b1ecad1007251610670e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852ca557fd6684a62f6a606eab394ff9ae11630d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mean square error")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mean square error")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
